@@ -1,4 +1,5 @@
 const entries = {
   numbery: [],
-  nany: []
+  nany: [],
+  past: []
 };
